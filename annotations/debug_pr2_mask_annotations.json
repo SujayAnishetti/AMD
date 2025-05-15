@@ -1,0 +1,2326 @@
+[
+    {
+        "label": "RPE",
+        "points": [
+            [
+                863,
+                512
+            ],
+            [
+                893,
+                512
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                897,
+                511
+            ],
+            [
+                966,
+                511
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                895,
+                511
+            ],
+            [
+                895,
+                512
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                861,
+                511
+            ],
+            [
+                861,
+                512
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                970,
+                510
+            ],
+            [
+                991,
+                510
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                968,
+                510
+            ],
+            [
+                968,
+                511
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                826,
+                510
+            ],
+            [
+                859,
+                511
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                995,
+                509
+            ],
+            [
+                1010,
+                509
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                993,
+                509
+            ],
+            [
+                993,
+                510
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                824,
+                509
+            ],
+            [
+                824,
+                510
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1014,
+                508
+            ],
+            [
+                1037,
+                508
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1012,
+                508
+            ],
+            [
+                1012,
+                509
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                807,
+                509
+            ],
+            [
+                822,
+                509
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                805,
+                508
+            ],
+            [
+                805,
+                509
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1041,
+                507
+            ],
+            [
+                1055,
+                507
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1039,
+                507
+            ],
+            [
+                1039,
+                508
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                744,
+                507
+            ],
+            [
+                803,
+                508
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1058,
+                506
+            ],
+            [
+                1072,
+                506
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                742,
+                506
+            ],
+            [
+                742,
+                507
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1074,
+                506
+            ],
+            [
+                1089,
+                505
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                663,
+                505
+            ],
+            [
+                740,
+                506
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1091,
+                504
+            ],
+            [
+                1091,
+                505
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                661,
+                504
+            ],
+            [
+                661,
+                505
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                636,
+                504
+            ],
+            [
+                659,
+                504
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1106,
+                503
+            ],
+            [
+                1106,
+                504
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1093,
+                504
+            ],
+            [
+                1096,
+                505
+            ],
+            [
+                1104,
+                504
+            ],
+            [
+                1097,
+                503
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                634,
+                503
+            ],
+            [
+                634,
+                504
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                613,
+                503
+            ],
+            [
+                632,
+                503
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1124,
+                502
+            ],
+            [
+                1133,
+                502
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1122,
+                502
+            ],
+            [
+                1122,
+                503
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1120,
+                503
+            ],
+            [
+                1116,
+                502
+            ],
+            [
+                1108,
+                503
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1137,
+                501
+            ],
+            [
+                1143,
+                501
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1135,
+                501
+            ],
+            [
+                1135,
+                502
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1145,
+                501
+            ],
+            [
+                1146,
+                500
+            ],
+            [
+                1150,
+                500
+            ],
+            [
+                1145,
+                500
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1152,
+                499
+            ],
+            [
+                1152,
+                500
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1164,
+                498
+            ],
+            [
+                1168,
+                498
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1162,
+                498
+            ],
+            [
+                1161,
+                499
+            ],
+            [
+                1154,
+                499
+            ],
+            [
+                1162,
+                499
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1170,
+                498
+            ],
+            [
+                1172,
+                497
+            ],
+            [
+                1173,
+                498
+            ],
+            [
+                1177,
+                497
+            ],
+            [
+                1170,
+                497
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1181,
+                496
+            ],
+            [
+                1187,
+                496
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1179,
+                496
+            ],
+            [
+                1179,
+                497
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1191,
+                495
+            ],
+            [
+                1192,
+                496
+            ],
+            [
+                1194,
+                495
+            ],
+            [
+                1197,
+                495
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1189,
+                495
+            ],
+            [
+                1189,
+                496
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1200,
+                494
+            ],
+            [
+                1204,
+                494
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1208,
+                493
+            ],
+            [
+                1212,
+                493
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1206,
+                493
+            ],
+            [
+                1206,
+                494
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1214,
+                492
+            ],
+            [
+                1214,
+                493
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1222,
+                491
+            ],
+            [
+                1216,
+                492
+            ],
+            [
+                1222,
+                492
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1243,
+                489
+            ],
+            [
+                1224,
+                491
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1247,
+                488
+            ],
+            [
+                1250,
+                488
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1245,
+                488
+            ],
+            [
+                1245,
+                489
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1254,
+                487
+            ],
+            [
+                1258,
+                487
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1252,
+                487
+            ],
+            [
+                1252,
+                488
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1262,
+                486
+            ],
+            [
+                1264,
+                486
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1260,
+                486
+            ],
+            [
+                1260,
+                487
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1268,
+                485
+            ],
+            [
+                1271,
+                485
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1266,
+                485
+            ],
+            [
+                1266,
+                486
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1275,
+                484
+            ],
+            [
+                1277,
+                484
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1273,
+                484
+            ],
+            [
+                1273,
+                485
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1279,
+                483
+            ],
+            [
+                1279,
+                484
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1296,
+                481
+            ],
+            [
+                1298,
+                481
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1294,
+                481
+            ],
+            [
+                1281,
+                483
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1302,
+                480
+            ],
+            [
+                1306,
+                480
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1300,
+                480
+            ],
+            [
+                1300,
+                481
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1310,
+                479
+            ],
+            [
+                1312,
+                479
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1308,
+                479
+            ],
+            [
+                1308,
+                480
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1316,
+                478
+            ],
+            [
+                1319,
+                478
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1314,
+                478
+            ],
+            [
+                1314,
+                479
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1323,
+                477
+            ],
+            [
+                1325,
+                477
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1321,
+                477
+            ],
+            [
+                1321,
+                478
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1329,
+                476
+            ],
+            [
+                1333,
+                476
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1327,
+                476
+            ],
+            [
+                1327,
+                477
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1337,
+                475
+            ],
+            [
+                1339,
+                475
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1335,
+                475
+            ],
+            [
+                1335,
+                476
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1341,
+                474
+            ],
+            [
+                1341,
+                475
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1350,
+                473
+            ],
+            [
+                1352,
+                473
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1348,
+                473
+            ],
+            [
+                1346,
+                474
+            ],
+            [
+                1343,
+                474
+            ],
+            [
+                1348,
+                474
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1356,
+                472
+            ],
+            [
+                1358,
+                472
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1354,
+                472
+            ],
+            [
+                1354,
+                473
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1362,
+                471
+            ],
+            [
+                1364,
+                471
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1360,
+                471
+            ],
+            [
+                1360,
+                472
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1368,
+                470
+            ],
+            [
+                1369,
+                470
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1366,
+                470
+            ],
+            [
+                1366,
+                471
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1373,
+                469
+            ],
+            [
+                1375,
+                469
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1371,
+                469
+            ],
+            [
+                1371,
+                470
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1379,
+                468
+            ],
+            [
+                1381,
+                468
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1377,
+                468
+            ],
+            [
+                1377,
+                469
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1385,
+                467
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1383,
+                467
+            ],
+            [
+                1383,
+                468
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1387,
+                466
+            ],
+            [
+                1387,
+                467
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1394,
+                465
+            ],
+            [
+                1396,
+                465
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1389,
+                466
+            ],
+            [
+                1390,
+                467
+            ],
+            [
+                1391,
+                466
+            ],
+            [
+                1392,
+                466
+            ],
+            [
+                1392,
+                465
+            ],
+            [
+                1390,
+                465
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1398,
+                464
+            ],
+            [
+                1398,
+                465
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1406,
+                463
+            ],
+            [
+                1408,
+                463
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1400,
+                464
+            ],
+            [
+                1401,
+                465
+            ],
+            [
+                1402,
+                465
+            ],
+            [
+                1403,
+                464
+            ],
+            [
+                1404,
+                464
+            ],
+            [
+                1404,
+                463
+            ],
+            [
+                1401,
+                463
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1410,
+                462
+            ],
+            [
+                1410,
+                463
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1415,
+                461
+            ],
+            [
+                1414,
+                462
+            ],
+            [
+                1412,
+                462
+            ],
+            [
+                1414,
+                462
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1429,
+                459
+            ],
+            [
+                1431,
+                459
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1427,
+                459
+            ],
+            [
+                1417,
+                461
+            ],
+            [
+                1427,
+                460
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1435,
+                458
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1433,
+                458
+            ],
+            [
+                1433,
+                459
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1439,
+                457
+            ],
+            [
+                1440,
+                457
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1437,
+                457
+            ],
+            [
+                1437,
+                458
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1444,
+                456
+            ],
+            [
+                1446,
+                456
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1442,
+                456
+            ],
+            [
+                1442,
+                457
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1450,
+                455
+            ],
+            [
+                1452,
+                455
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1448,
+                455
+            ],
+            [
+                1448,
+                456
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1456,
+                454
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1454,
+                454
+            ],
+            [
+                1454,
+                455
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1458,
+                453
+            ],
+            [
+                1458,
+                454
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1473,
+                450
+            ],
+            [
+                1473,
+                451
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1471,
+                450
+            ],
+            [
+                1460,
+                453
+            ],
+            [
+                1465,
+                453
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1481,
+                449
+            ],
+            [
+                1475,
+                450
+            ],
+            [
+                1477,
+                450
+            ],
+            [
+                1478,
+                449
+            ],
+            [
+                1479,
+                450
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1485,
+                448
+            ],
+            [
+                1486,
+                448
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1483,
+                448
+            ],
+            [
+                1483,
+                449
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1490,
+                447
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1488,
+                447
+            ],
+            [
+                1488,
+                448
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1494,
+                446
+            ],
+            [
+                1496,
+                446
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1492,
+                446
+            ],
+            [
+                1492,
+                447
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1500,
+                445
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1498,
+                445
+            ],
+            [
+                1498,
+                446
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1504,
+                444
+            ],
+            [
+                1506,
+                444
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1502,
+                444
+            ],
+            [
+                1502,
+                445
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1508,
+                443
+            ],
+            [
+                1508,
+                444
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1510,
+                443
+            ],
+            [
+                1511,
+                442
+            ],
+            [
+                1512,
+                443
+            ],
+            [
+                1513,
+                442
+            ],
+            [
+                1515,
+                442
+            ],
+            [
+                1513,
+                442
+            ],
+            [
+                1512,
+                443
+            ],
+            [
+                1511,
+                442
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1519,
+                441
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1517,
+                441
+            ],
+            [
+                1517,
+                442
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1523,
+                440
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1521,
+                440
+            ],
+            [
+                1521,
+                441
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1527,
+                439
+            ],
+            [
+                1529,
+                439
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1525,
+                439
+            ],
+            [
+                1525,
+                440
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1533,
+                438
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1531,
+                438
+            ],
+            [
+                1531,
+                439
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1536,
+                437
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1540,
+                436
+            ],
+            [
+                1542,
+                436
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1538,
+                436
+            ],
+            [
+                1538,
+                437
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1546,
+                435
+            ],
+            [
+                1548,
+                435
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1544,
+                435
+            ],
+            [
+                1544,
+                436
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1552,
+                434
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1550,
+                434
+            ],
+            [
+                1550,
+                435
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1556,
+                433
+            ],
+            [
+                1558,
+                433
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1554,
+                433
+            ],
+            [
+                1554,
+                434
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1561,
+                432
+            ],
+            [
+                1563,
+                432
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1567,
+                431
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1565,
+                431
+            ],
+            [
+                1565,
+                432
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1575,
+                430
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1571,
+                430
+            ],
+            [
+                1573,
+                430
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1569,
+                430
+            ],
+            [
+                1569,
+                431
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1581,
+                428
+            ],
+            [
+                1582,
+                428
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1579,
+                428
+            ],
+            [
+                1579,
+                429
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1590,
+                426
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1588,
+                426
+            ],
+            [
+                1588,
+                427
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1581,
+                418
+            ],
+            [
+                1582,
+                419
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1569,
+                416
+            ],
+            [
+                1572,
+                416
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1588,
+                415
+            ],
+            [
+                1585,
+                419
+            ],
+            [
+                1588,
+                419
+            ],
+            [
+                1586,
+                418
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1577,
+                415
+            ],
+            [
+                1579,
+                415
+            ],
+            [
+                1580,
+                416
+            ],
+            [
+                1580,
+                415
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1586,
+                411
+            ],
+            [
+                1587,
+                411
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1577,
+                411
+            ],
+            [
+                1580,
+                411
+            ]
+        ],
+        "type": "polygon"
+    },
+    {
+        "label": "RPE",
+        "points": [
+            [
+                1569,
+                411
+            ],
+            [
+                1572,
+                411
+            ]
+        ],
+        "type": "polygon"
+    }
+]

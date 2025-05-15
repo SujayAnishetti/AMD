@@ -1,0 +1,6 @@
+path: C://OCT//dataset
+train: C://OCT//dataset//images//train
+val:  C://OCT//dataset//images//train # or set aside a few for validation
+names:
+  0: RPE
+  1: PR2
